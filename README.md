@@ -16,7 +16,7 @@ Aplikasi Komputasi Bergerak yaitu dengan membuat Aplikasi Sensor Andorid.
 </p>
 
 <p align="center">
-    <img src="restoran terdekat.jpg" alt="Build Status">
+    <img src="ss restoran terdekat.jpg" alt="Build Status">
 </p>
 
 <p align="center">
