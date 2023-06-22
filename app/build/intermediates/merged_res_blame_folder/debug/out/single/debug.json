@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/layout_fragment_tempat.xml.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/layout/fragment_tempat.xml"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/layout_viewpagerscreen.xml.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/layout/viewpagerscreen.xml"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/drawable_gambar1.jpg.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/drawable/gambar1.jpg"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/layout_activity_viewpager.xml.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/layout/activity_viewpager.xml"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/layout_activity_splash.xml.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/drawable_eky.jpg.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/drawable/eky.jpg"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/drawable_ic_baseline_person_24.xml.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/drawable/ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/drawable_ic_baseline_location_on_24.xml.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/drawable/ic_baseline_location_on_24.xml"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/drawable_gambar2.jpg.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/drawable/gambar2.jpg"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/layout_fragment_profil.xml.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/layout/fragment_profil.xml"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/drawable_dotselect.xml.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/drawable/dotselect.xml"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/layout_fragment_lokasi.xml.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/layout/fragment_lokasi.xml"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/menu_bottom_navigation.xml.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/menu/bottom_navigation.xml"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/drawable_dotunselect.xml.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/drawable/dotunselect.xml"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/drawable_foto.jpg.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/drawable/foto.jpg"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/drawable_ic_baseline_list_24.xml.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/drawable/ic_baseline_list_24.xml"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/raw_foodsplash.json.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/raw/foodsplash.json"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.eky.a10120066_sensor.app-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.eky.a10120066_sensor.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.eky.a10120066_sensor.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

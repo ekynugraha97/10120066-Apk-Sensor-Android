@@ -1,0 +1,154 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.eky.a10120066_sensor"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Albee Akbar Fillah\AndroidStudioProjects\10120066Sensor\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\Albee Akbar Fillah\AndroidStudioProjects\10120066Sensor\app\src\main\AndroidManifest.xml
+10
+11    <!-- Include required permissions for Google Maps API to run. -->
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\24e144af3119bdc7efd26a35b0a221ee\transformed\play-services-maps-17.0.1\AndroidManifest.xml:23:5-79
+12-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\24e144af3119bdc7efd26a35b0a221ee\transformed\play-services-maps-17.0.1\AndroidManifest.xml:23:22-76
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\24e144af3119bdc7efd26a35b0a221ee\transformed\play-services-maps-17.0.1\AndroidManifest.xml:24:5-67
+13-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\24e144af3119bdc7efd26a35b0a221ee\transformed\play-services-maps-17.0.1\AndroidManifest.xml:24:22-64
+14
+15    <uses-feature
+15-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\24e144af3119bdc7efd26a35b0a221ee\transformed\play-services-maps-17.0.1\AndroidManifest.xml:26:5-28:35
+16        android:glEsVersion="0x00020000"
+16-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\24e144af3119bdc7efd26a35b0a221ee\transformed\play-services-maps-17.0.1\AndroidManifest.xml:27:9-41
+17        android:required="true" />
+17-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\24e144af3119bdc7efd26a35b0a221ee\transformed\play-services-maps-17.0.1\AndroidManifest.xml:28:9-32
+18
+19    <queries>
+19-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\24e144af3119bdc7efd26a35b0a221ee\transformed\play-services-maps-17.0.1\AndroidManifest.xml:30:5-34:15
+20
+21        <!-- Needs to be explicitly declared on Android R+ -->
+22        <package android:name="com.google.android.apps.maps" />
+22-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\24e144af3119bdc7efd26a35b0a221ee\transformed\play-services-maps-17.0.1\AndroidManifest.xml:33:9-64
+22-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\24e144af3119bdc7efd26a35b0a221ee\transformed\play-services-maps-17.0.1\AndroidManifest.xml:33:18-61
+23    </queries>
+24
+25    <application
+25-->C:\Users\Albee Akbar Fillah\AndroidStudioProjects\10120066Sensor\app\src\main\AndroidManifest.xml:6:5-47:15
+26        android:allowBackup="true"
+26-->C:\Users\Albee Akbar Fillah\AndroidStudioProjects\10120066Sensor\app\src\main\AndroidManifest.xml:7:9-35
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.7.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\0c734a8f9451ded3159b05d46fc9a23a\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+28        android:dataExtractionRules="@xml/data_extraction_rules"
+28-->C:\Users\Albee Akbar Fillah\AndroidStudioProjects\10120066Sensor\app\src\main\AndroidManifest.xml:8:9-65
+29        android:debuggable="true"
+30        android:fullBackupContent="@xml/backup_rules"
+30-->C:\Users\Albee Akbar Fillah\AndroidStudioProjects\10120066Sensor\app\src\main\AndroidManifest.xml:9:9-54
+31        android:icon="@mipmap/ic_launcher"
+31-->C:\Users\Albee Akbar Fillah\AndroidStudioProjects\10120066Sensor\app\src\main\AndroidManifest.xml:10:9-43
+32        android:label="@string/app_name"
+32-->C:\Users\Albee Akbar Fillah\AndroidStudioProjects\10120066Sensor\app\src\main\AndroidManifest.xml:11:9-41
+33        android:roundIcon="@mipmap/ic_launcher_round"
+33-->C:\Users\Albee Akbar Fillah\AndroidStudioProjects\10120066Sensor\app\src\main\AndroidManifest.xml:12:9-54
+34        android:supportsRtl="true"
+34-->C:\Users\Albee Akbar Fillah\AndroidStudioProjects\10120066Sensor\app\src\main\AndroidManifest.xml:13:9-35
+35        android:testOnly="true"
+36        android:theme="@style/Theme.10120066Sensor" >
+36-->C:\Users\Albee Akbar Fillah\AndroidStudioProjects\10120066Sensor\app\src\main\AndroidManifest.xml:14:9-52
+37
+38        <!--
+39         TODO: Before you run your application, you need a Google Maps API key.
+40
+41         To get one, follow the directions here:
+42
+43            https://developers.google.com/maps/documentation/android-sdk/get-api-key
+44
+45         Once you have your API key (it starts with "AIza"), define a new property in your
+46         project's local.properties file (e.g. MAPS_API_KEY=Aiza...), and replace the
+47         "YOUR_API_KEY" string in this file with "${MAPS_API_KEY}".
+48        -->
+49        <meta-data
+49-->C:\Users\Albee Akbar Fillah\AndroidStudioProjects\10120066Sensor\app\src\main\AndroidManifest.xml:28:5-30:67
+50            android:name="com.google.android.geo.API_KEY"
+50-->C:\Users\Albee Akbar Fillah\AndroidStudioProjects\10120066Sensor\app\src\main\AndroidManifest.xml:29:9-54
+51            android:value="AIzaSyBHBfKh_aQTeKoNAcgOT_MuAuCm2_cxd0k" />
+51-->C:\Users\Albee Akbar Fillah\AndroidStudioProjects\10120066Sensor\app\src\main\AndroidManifest.xml:30:9-64
+52
+53        <activity
+53-->C:\Users\Albee Akbar Fillah\AndroidStudioProjects\10120066Sensor\app\src\main\AndroidManifest.xml:32:5-34:36
+54            android:name="com.eky.a10120066_sensor.ViewpagerActivity"
+54-->C:\Users\Albee Akbar Fillah\AndroidStudioProjects\10120066Sensor\app\src\main\AndroidManifest.xml:33:9-66
+55            android:exported="false" />
+55-->C:\Users\Albee Akbar Fillah\AndroidStudioProjects\10120066Sensor\app\src\main\AndroidManifest.xml:34:9-33
+56        <activity
+56-->C:\Users\Albee Akbar Fillah\AndroidStudioProjects\10120066Sensor\app\src\main\AndroidManifest.xml:35:5-37:36
+57            android:name="com.eky.a10120066_sensor.MainActivity"
+57-->C:\Users\Albee Akbar Fillah\AndroidStudioProjects\10120066Sensor\app\src\main\AndroidManifest.xml:36:9-61
+58            android:exported="false" />
+58-->C:\Users\Albee Akbar Fillah\AndroidStudioProjects\10120066Sensor\app\src\main\AndroidManifest.xml:37:9-33
+59        <activity
+59-->C:\Users\Albee Akbar Fillah\AndroidStudioProjects\10120066Sensor\app\src\main\AndroidManifest.xml:38:5-46:16
+60            android:name="com.eky.a10120066_sensor.SplashActivity"
+60-->C:\Users\Albee Akbar Fillah\AndroidStudioProjects\10120066Sensor\app\src\main\AndroidManifest.xml:39:9-63
+61            android:exported="true" >
+61-->C:\Users\Albee Akbar Fillah\AndroidStudioProjects\10120066Sensor\app\src\main\AndroidManifest.xml:40:9-32
+62            <intent-filter>
+62-->C:\Users\Albee Akbar Fillah\AndroidStudioProjects\10120066Sensor\app\src\main\AndroidManifest.xml:41:9-45:25
+63                <action android:name="android.intent.action.MAIN" />
+63-->C:\Users\Albee Akbar Fillah\AndroidStudioProjects\10120066Sensor\app\src\main\AndroidManifest.xml:42:13-65
+63-->C:\Users\Albee Akbar Fillah\AndroidStudioProjects\10120066Sensor\app\src\main\AndroidManifest.xml:42:21-62
+64
+65                <category android:name="android.intent.category.LAUNCHER" />
+65-->C:\Users\Albee Akbar Fillah\AndroidStudioProjects\10120066Sensor\app\src\main\AndroidManifest.xml:44:13-73
+65-->C:\Users\Albee Akbar Fillah\AndroidStudioProjects\10120066Sensor\app\src\main\AndroidManifest.xml:44:23-70
+66            </intent-filter>
+67        </activity>
+68        <!-- Needs to be explicitly declared on P+ -->
+69        <uses-library
+69-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\24e144af3119bdc7efd26a35b0a221ee\transformed\play-services-maps-17.0.1\AndroidManifest.xml:39:9-41:40
+70            android:name="org.apache.http.legacy"
+70-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\24e144af3119bdc7efd26a35b0a221ee\transformed\play-services-maps-17.0.1\AndroidManifest.xml:40:13-50
+71            android:required="false" />
+71-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\24e144af3119bdc7efd26a35b0a221ee\transformed\play-services-maps-17.0.1\AndroidManifest.xml:41:13-37
+72
+73        <activity
+73-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\b7ed2ff96f773ad015a07741f7e9d669\transformed\play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+74            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+74-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\b7ed2ff96f773ad015a07741f7e9d669\transformed\play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+75            android:exported="false"
+75-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\b7ed2ff96f773ad015a07741f7e9d669\transformed\play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+76            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+76-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\b7ed2ff96f773ad015a07741f7e9d669\transformed\play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+77
+78        <meta-data
+78-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\76a45d5fdf2eb049adf6fdfdd2d0b2a5\transformed\play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+79            android:name="com.google.android.gms.version"
+79-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\76a45d5fdf2eb049adf6fdfdd2d0b2a5\transformed\play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
+80            android:value="@integer/google_play_services_version" />
+80-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\76a45d5fdf2eb049adf6fdfdd2d0b2a5\transformed\play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+81
+82        <provider
+82-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+83            android:name="androidx.startup.InitializationProvider"
+83-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+84            android:authorities="com.eky.a10120066_sensor.androidx-startup"
+84-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+85            android:exported="false" >
+85-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+86            <meta-data
+86-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+87                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+87-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+88                android:value="androidx.startup" />
+88-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+89            <meta-data
+89-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+90                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+90-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+91                android:value="androidx.startup" />
+91-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Albee Akbar Fillah\.gradle\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+92        </provider>
+93    </application>
+94
+95</manifest>
